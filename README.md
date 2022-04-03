@@ -27,7 +27,7 @@
 - [ ] Criação/Melhoria de Documentação
 
 ### Eclipse Lunar e Solar:
-- [ ] Combinação de Modelos Preditivos individuais para os problemas anteriores
+- [ ] Combinação de Modelos Preditivos individuais dos problemas anteriores
 - [ ] Análise da possibilidade de fazer 1 Modelo Preditivo para ambos os tipos de Eclipses
 - [ ] Escrita de Conclusão
 - [ ] Criação/Melhoria de Documentação
