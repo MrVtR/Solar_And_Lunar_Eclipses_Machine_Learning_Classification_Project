@@ -18,11 +18,11 @@
 - [ ] Escrita de Conclusão
 - [ ] Criação/Melhoria de Documentação
 ### Eclipse Solar:
-- [x] Análise exploratória e Pré Processamento dos dados
-- [x] Verificação de Outliers e tratativa caso exista
-- [x] Treinamento de Modelo Preditivo inicial
-- [x] Comparação de Modelos Preditivos em busca do melhor resultado
-- [x] Validação Cruzada para comprovar a estabilidade do Modelo escolhido
+- [ ] Análise exploratória e Pré Processamento dos dados
+- [ ] Verificação de Outliers e tratativa caso exista
+- [ ] Treinamento de Modelo Preditivo inicial
+- [ ] Comparação de Modelos Preditivos em busca do melhor resultado
+- [ ] Validação Cruzada para comprovar a estabilidade do Modelo escolhido
 - [ ] Escrita de Conclusão
 - [ ] Criação/Melhoria de Documentação
 
