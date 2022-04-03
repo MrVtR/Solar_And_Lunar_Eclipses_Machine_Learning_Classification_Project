@@ -1,4 +1,7 @@
 # Repositório para Análise de dados, Treinamento de Modelo preditivo e Análise de Resultados para dados obtidos da NASA sobre Eclipses Lunares e Solares
+## Fonte para os datasets criados pela NASA: 
+https://www.kaggle.com/datasets/nasa/solar-eclipses
+
 ## Bibliotecas utilizadas
 - Pandas
 - Numpy
@@ -31,6 +34,3 @@
 - [ ] Análise da possibilidade de fazer 1 Modelo Preditivo para ambos os tipos de Eclipses
 - [ ] Escrita de Conclusão
 - [ ] Criação/Melhoria de Documentação
-
-## Fonte para os datasets criados pela NASA: 
-https://www.kaggle.com/datasets/nasa/solar-eclipses?select=solar.csv
