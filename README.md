@@ -28,9 +28,3 @@ https://www.kaggle.com/datasets/nasa/solar-eclipses
 - [x] Validação Cruzada para comprovar a estabilidade do Modelo escolhido
 - [ ] Escrita de Conclusão
 - [ ] Criação/Melhoria de Documentação
-
-### Eclipse Lunar e Solar:
-- [ ] Combinação de Modelos Preditivos individuais dos problemas anteriores
-- [ ] Análise da possibilidade de fazer 1 Modelo Preditivo para ambos os tipos de Eclipses
-- [ ] Escrita de Conclusão
-- [ ] Criação/Melhoria de Documentação
