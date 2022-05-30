@@ -2,6 +2,9 @@
 ## Fonte para os datasets criados pela NASA: 
 https://www.kaggle.com/datasets/nasa/solar-eclipses
 
+## Fonte para as informações de Documentação e Conclusão escritas por mim com base no dataset da NASA:
+https://eclipse.gsfc.nasa.gov
+
 ## Bibliotecas utilizadas
 - Pandas
 - Numpy
