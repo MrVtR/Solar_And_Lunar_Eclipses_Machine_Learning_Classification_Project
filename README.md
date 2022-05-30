@@ -21,7 +21,7 @@ https://eclipse.gsfc.nasa.gov
 - [x] Treinamento de Modelo Preditivo inicial
 - [x] Comparação de Modelos Preditivos em busca do melhor resultado
 - [x] Validação Cruzada para comprovar a estabilidade do Modelo escolhido
-- [ ] Escrita de Conclusão
+- [x] Escrita de Conclusão
 - [x] Criação/Melhoria de Documentação
 ### Eclipse Solar:
 - [x] Análise exploratória e Pré Processamento dos dados
@@ -29,5 +29,5 @@ https://eclipse.gsfc.nasa.gov
 - [x] Treinamento de Modelo Preditivo inicial
 - [x] Comparação de Modelos Preditivos em busca do melhor resultado
 - [x] Validação Cruzada para comprovar a estabilidade do Modelo escolhido
-- [ ] Escrita de Conclusão
+- [x] Escrita de Conclusão
 - [x] Criação/Melhoria de Documentação
